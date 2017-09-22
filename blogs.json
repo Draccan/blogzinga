@@ -1,6 +1,32 @@
 [
   {
     "version":1,
+    "title":"Paolo Dell'Aguzzo",
+    "topic":"La programmazione, single page app, mobile iOS e Android e metodologie Agili",
+    "authors":[
+      "Paolo Dell'Aguzzo"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/paolodellaguzzo.png",
+    "tags":[
+      "ReactJS",
+      "Java",
+      "Javascript",
+      "Angularjs",
+      "React Native",
+      "SQL",
+      "PL/SQL"
+    ],
+    "github":"https://github.com/Draccan",
+    "twitter":"https://twitter.com/PaoloDellaguzzo",
+    "facebook":"https://www.facebook.com/paolodellaguzzocom/",
+    "linkedin":"https://www.linkedin.com/in/paolodellaguzzo/",
+    "url":"https://www.paolodellaguzzo.com/blog/"
+  },
+  {
+    "version":1,
     "title":"famousco.de | unofficial famous javascript lib",
     "topic":"Esempi, link e snippets riguardanti famous: High-performance javascript library for animations & interfaces",
     "authors":[
